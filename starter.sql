@@ -30,7 +30,7 @@ CREATE TABLE Student (
 INSERT INTO Department VALUES
 (1, 'Computer Science'),
 (2, 'Information Technology');
-Step 7: Insert Faculty data
+
 INSERT INTO Faculty VALUES
 (101, 'Kumar', 1),
 (102, 'Priya', 1),
